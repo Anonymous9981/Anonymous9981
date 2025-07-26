@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://yashwantsportfolio.netlify.app/" alt="Yashwant Mukati - B.Tech CSE Student" width="100%"/>
+  <img src="Screenshot_2025_0726_163934.png" alt="Yashwant Mukati - B.Tech CSE Student" width="100%"/>
 </div>
 
 # Hey there! I'm Yashwant Mukati 👋
@@ -19,7 +19,7 @@
 
 [image:1]
 
-- 🔭 I'm currently working on **Data Engineering Projects** and **Web Applications**
+- 🔭 I'm currently working on **Web Applications**
 - 🌱 I'm currently learning **Web Development** and advancing my **Python** skills
 - 🤖 I'm passionate about **Machine Learning** and **Database Management**
 - 💡 Interested in **Cybersecurity** and **Augmented Reality** applications
@@ -70,14 +70,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Web Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -107,7 +104,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anonymous9981&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
@@ -116,7 +113,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anonymous9981&theme=tokyo-night&hide_border=true&area=true" width="100%">
 </div>
 
 ## 🏆 Leadership & Achievements
