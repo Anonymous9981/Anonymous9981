@@ -101,21 +101,6 @@
 - **Python Training** - IIT Bombay[2]
 - **Introduction to MySQL** - Infosys Springboard[2]
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anonymous9981&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anonymous9981&theme=tokyo-night&hide_border=true&area=true" width="100%">
-</div>
-
 ## 🏆 Leadership & Achievements
 
 - 🎯 **Coordinator** - Tech Fest Technovation2K23, SKITM Indore[2]
