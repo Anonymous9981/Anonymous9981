@@ -7,7 +7,7 @@
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-yashwantsportfolio.netlify.app-blue?style=for-the-badge&logo=netlify)](https://yashwantsportfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yashwant--mukati-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yashwant-mukati-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yashwant--mukati-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yashwant-mukati-b1079428a)
 [![Email](https://img.shields.io/badge/Email-yashwantid9981%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:yashwantid9981@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B91--9179949301-green?style=for-the-badge&logo=whatsapp)](tel:+919179949301)
 
@@ -17,7 +17,7 @@
 
 > **Aspiring Software Engineer | Database Engineer | Cybersecurity Expert **B.Tech Computer Science & Engineering** student at **Shivajirao Kadam Institute of Technology and Management, Indore** with a deep interest in **Machine Learning** and **Database Systems**[2]. Currently enhancing operational efficiency through hands-on experience and seeking opportunities to make a real impact in the tech industry[2][4].
 
-[image:1]
+
 
 - 🔭 I'm currently working on **Web Applications**
 - 🌱 I'm currently learning **Web Development** and advancing my **Python** skills
@@ -30,12 +30,12 @@
 ## 💼 Professional Experience
 
 ### 🏢 Trainee Technical Manager | Magpie Engineering Pvt. Ltd.
-**November 2024**[2]
+**November 2024**
 - Streamlined coordination with banks for valuation requests and efficiently managed site data entry into databases
 - Facilitated field operations by coordinating officer visits and collecting raw data
 - Leveraged Microsoft Excel to track data records and generate detailed workflow reports, enhancing reporting accuracy
 
-[image:2]
+
 
 ## 🚀 Featured Projects
 
@@ -60,7 +60,7 @@
 - Created a responsive personal portfolio showcasing projects and skills
 - Deployed on Netlify with modern design principles[4]
 
-[image:3]
+
 
 ## 💻 Technical Skills
 
@@ -109,14 +109,14 @@
 
 ## 🌟 Core Competencies
 
-**🔧 Technical Expertise**[2][4]
+**🔧 Technical Expertise**
 - Database Management & Optimization
 - Web Development (Full-Stack)
 - Machine Learning & Data Analytics
 - Augmented Reality Development
 - Cybersecurity Fundamentals
 
-**💼 Professional Skills**[2]
+**💼 Professional Skills**
 - Workflow Management & Process Optimization
 - Team Coordination & Leadership
 - Time Management & Adaptability
@@ -137,7 +137,7 @@ When I'm not coding, you can find me:
 I'm always excited to collaborate on innovative projects and connect with fellow tech enthusiasts!
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-brightgreen?style=for-the-badge)](https://yashwantsportfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/yashwant-mukati-)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/yashwant-mukati-b1079428a)
 [![Email](https://img.shields.io/badge/📧%20Email-Contact-red?style=for-the-badge)](mailto:yashwantid9981@gmail.com)
 
 **"Exploring Technology, Building Solutions"**
@@ -151,4 +151,3 @@ I'm always excited to collaborate on innovative projects and connect with fellow
   
   *⭐ Star my repositories if you find them useful!*
 </div>
-
